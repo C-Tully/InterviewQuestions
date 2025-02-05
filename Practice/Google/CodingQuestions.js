@@ -25,7 +25,6 @@ function checkCollectionForSum(collection, k) {
   let flag = false;
 
   for (let i = 0; i < collection.length; i++) {
-    //Get the first value in the collection to check
     const x = collection[i];
 
     for (let j = 0; j < collection.length; j++) {

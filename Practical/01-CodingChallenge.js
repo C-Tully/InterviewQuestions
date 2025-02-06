@@ -1,5 +1,5 @@
 /**
-*(4) To give us a sense of your experience, please complete the following task using JavaScript.
+*To give us a sense of your experience, please complete the following task using JavaScript.
 
 Write a function that takes 2 colors as arguments and returns the average color.
 * The parameters will be two 6-digit hexadecimal strings. This does not need to be validated.
